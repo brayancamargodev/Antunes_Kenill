@@ -9,12 +9,12 @@
 }
 
 :root {
-    --cor0:#ebe5c5;
-    --cor1:#83e1ad;
-    --cor2:#3ddc84;
-    --cor3:#2fa866;
-    --cor4:#1a5c37;
-    --cor5:#063d1e;
+    --cor0:#36360a;
+    --cor1: black ;
+    --cor2:#d2d700;
+    --cor3:#f1f50b;
+    --cor4:#bcc200;
+    --cor5:#292b02;
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', sans-serif;
@@ -150,7 +150,7 @@ nav {
 }
 
 nav > a {
-    color: var(--cor1);
+    color: white;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
