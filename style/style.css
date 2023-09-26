@@ -9,12 +9,12 @@
 }
 
 :root {
-    --cor0:#36360a;
+    --cor0: black;
     --cor1: black ;
     --cor2:#d2d700;
     --cor3:#f1f50b;
     --cor4:#bcc200;
-    --cor5:#292b02;
+    --cor5: black;
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', sans-serif;
@@ -37,7 +37,7 @@ a.externo::after {
 }
 
 header > h1 {
-    color: white;
+    color: black;
     font-family: var(--font-destaque);
     font-size: 3em;
     font-weight: normal;
@@ -85,7 +85,7 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: white;
+    background-color: black;
     box-shadow:  0px 0px 0px 10px rgba(0, 0, 0, 0.192);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -112,6 +112,7 @@ main p {
     text-indent: 30px;
     line-height: 2em;
     font-size: 1em;
+    color: white;
 }
 
 main a {
