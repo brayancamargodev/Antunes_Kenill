@@ -208,3 +208,22 @@ footer a:hover {
 .can {
     color: #bcc200;
 }
+
+.wpp {
+    position: fixed;
+    width: 54px;
+    height: 56px;
+    bottom: 38px;
+    right: 3px;
+    background-color: #25d366;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp {
+    margin-top: 13px;
+}
